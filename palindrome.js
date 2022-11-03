@@ -10,6 +10,7 @@ function reverse(string){
 let reversed = reverse(string);
 if (string = reversed){
     console.log("palindrome";)
-}
+}else{
+console.log("No")
 }
 // add else condition
